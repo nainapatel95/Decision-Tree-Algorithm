@@ -73,7 +73,9 @@ The process of creating a decision tree involves:
 **Disadvantages of Decision Trees**
 
 •	Overfitting: Decision trees can easily overfit the training data, especially if they are deep with many nodes.
+
 •	Instability: Small variations in the data can result in a completely different tree being generated.
+
 •	Bias towards Features with More Levels: Features with more levels can dominate the tree structure.
 
 
